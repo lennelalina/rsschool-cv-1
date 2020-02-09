@@ -402,7 +402,7 @@ int main()
 I passed courses about HTML and CSS([Badges](https://www.codecademy.com/users/bit9126210447/achievements), [Courses](https://www.codecademy.com/profiles/bit9126210447)) and learned C/C++ languages at the BSUIR University.
 
 # Education
-*A middle school №208*(2008-2019), *BSUIR University*(2019-...), *Rolling Scopes School*(2020-...)
+*A middle school №208*(2008-2019), *BSUIR University*(2019-...), *The Rolling Scopes School*(2020-...)
 
 # English
 I have the **B1 level** of English language, but I hadn't practice somewhere.
