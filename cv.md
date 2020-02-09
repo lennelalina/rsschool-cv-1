@@ -1,6 +1,6 @@
- # My own information.
+ # My own information
 *Vladislav Stelmakh*
-## Contact information.
+## Contact information
  The name of the means of communication| links(numbers)
  -----------------------|------------------------
  Phone number|+375(33)304-60-93|
