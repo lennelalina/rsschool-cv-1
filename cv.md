@@ -405,4 +405,4 @@ I passed courses about HTML and CSS([Badges](https://www.codecademy.com/users/bi
 *A middle school №208*(2008-2019), *BSUIR University*(2019-...), *The Rolling Scopes School*(2020-...)
 
 # English
-I have the **B1 level** of English language, but I hadn't practice somewhere.
+I have the **B1 level** of English language, but I havn't practice somewhere.
