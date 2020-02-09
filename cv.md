@@ -9,7 +9,7 @@
  8. English (elaborate on what kind of practice you had, if any, how long it lasted and so on)
 
 # 1. My own information.
-*Vladislav Stelmakh
+*Vladislav Stelmakh*
 ## Contact information.
  The name of the means of communication| links(numbers)
  -----------------------|------------------------
