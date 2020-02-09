@@ -22,4 +22,10 @@ I want to develop myself in the sphere of programming because without knowledge 
 
 I have the task of becoming Front-end Developer. There is just one of my tasks I want to reach.
 ## Skills
-*
+1.Programming languages:
+* C, C++;
+* Basic HTML5 and CSS;
+
+2.Tools:
+* Visual Studio 2019;
+* VS code 2019;
