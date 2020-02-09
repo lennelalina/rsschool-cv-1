@@ -1,11 +1,11 @@
- # My own information
+# My own information
 *Vladislav Stelmakh*
 ## Contact information
- The name of the means of communication| links(numbers)
- -----------------------|------------------------
- Phone number|+375(33)304-60-93|
- E-mail|stelmakh.vladislav02@mail.ru|
- VK|[Vladislav Stelmakh](https://vk.com/vladizlavstelmakh)
+The name of the means of communication| links(numbers)
+-----------------------|------------------------
+Phone number|+375(33)304-60-93|
+E-mail|stelmakh.vladislav02@mail.ru|
+VK|[Vladislav Stelmakh](https://vk.com/vladizlavstelmakh)
 ## Summary
  My name is Vladislav, I'm from Belarus, Minsk city. I'm 18 years old. I'm in the habit of doing some sport activities such as football, volleyball etc. I'm very hard-working person thanks for it I like to get new knowledge because during working I getting new information for develop my self.
 I want to develop myself in the sphere of programming because without knowledge in IT science you can't live in modern world.
