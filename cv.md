@@ -9,5 +9,13 @@
  8. English (elaborate on what kind of practice you had, if any, how long it lasted and so on)
 
 # 1. My own information.
-* Vladislav
-* Stelmakh
+* Vladislav Stelmakh
+## Contact information.
+ The name of the means of communication| links(numbers)
+ -----------------------|------------------------
+ Phone number|+375(33)304-60-93|
+ E-mail|stelmakh.vladislav02@mail.ru|
+ VK|[Vladislav Stelmakh](https://vk.com/vladizlavstelmakh)
+## Summary
+ / My very important goal is to become Front-end Developer, because I find it very pretty for me, also I want to make some convenient resources for users/
+
