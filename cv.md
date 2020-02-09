@@ -9,7 +9,7 @@
  8. English (elaborate on what kind of practice you had, if any, how long it lasted and so on)
 
 # 1. My own information.
-* Vladislav Stelmakh
+*Vladislav Stelmakh
 ## Contact information.
  The name of the means of communication| links(numbers)
  -----------------------|------------------------
@@ -17,5 +17,9 @@
  E-mail|stelmakh.vladislav02@mail.ru|
  VK|[Vladislav Stelmakh](https://vk.com/vladizlavstelmakh)
 ## Summary
- My very important goal is to become Front-end Developer, because I find it very pretty for me. Also I want to make the most convenient the resources of the internet for users, because, for now, I consider, that the resources of the internet is a less convenient than we can make it. 
- My name is Vladislav, I am from Belarus - Minsk city. I am 18 years old. I like some kinds of sport activities such as football and volleyball. Also I like hard work, because, when I will work on a difficult project, I get new knowledge. I haven't 
+ My name is Vladislav, I'm from Belarus, Minsk city. I'm 18 years old. I'm in the habit of doing some sport activities such as football, volleyball etc. I'm very hard-working person thanks for it I like to get new knowledge because during working I getting new information for develop my self.
+I want to develop myself in the sphere of programming because without knowledge in IT science you can't live in modern world.
+
+I have the task of becoming Front-end Developer. There is just one of my tasks I want to reach.
+## Skills
+*
