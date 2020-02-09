@@ -17,5 +17,5 @@
  E-mail|stelmakh.vladislav02@mail.ru|
  VK|[Vladislav Stelmakh](https://vk.com/vladizlavstelmakh)
 ## Summary
- / My very important goal is to become Front-end Developer, because I find it very pretty for me, also I want to make some convenient resources for users/
-
+ My very important goal is to become Front-end Developer, because I find it very pretty for me. Also I want to make the most convenient the resources of the internet for users, because, for now, I consider, that the resources of the internet is a less convenient than we can make it. 
+ My name is Vladislav, I am from Belarus - Minsk city. I am 18 years old. I like some kinds of sport activities such as football and volleyball. Also I like hard work, because, when I will work on a difficult project, I get new knowledge. I haven't 
